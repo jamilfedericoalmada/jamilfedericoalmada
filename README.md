@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jamil Federico Almada
 - 👀 I’m interested in marketing, web development
-- 🌱 I’m currently learning ...  Marketing, UX/UI, SEO
+- 🌱 I’m currently learning ...  Marketing, UX/UI, Web Development
 - 📫 How to reach me ... jamilcommandline@gmaill.com
 
 <!---
